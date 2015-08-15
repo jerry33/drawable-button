@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyCustomButton">
+        <attr name="mcb_text" format="string"/>
+        <attr name="mcb_radius" format="float" />
+        <attr name="mcb_colorNormal" format="color" />
+        <attr name="mcb_colorPressed" format="color" />
+    </declare-styleable>
+
+</resources>
